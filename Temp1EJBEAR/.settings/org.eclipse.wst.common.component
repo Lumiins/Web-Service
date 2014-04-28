@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Temp1EJBEAR">
+        <wb-resource deploy-path="/" source-path="/"/>
+        <dependent-module archiveName="Temp1EJB.jar" deploy-path="/" handle="module:/resource/Temp1EJB/Temp1EJB">
+            <dependent-object>Module_1398635660689</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="Temp1EJBClient.jar" deploy-path="/" handle="module:/resource/Temp1EJBClient/Temp1EJBClient">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="RouterWebProject.war" deploy-path="/" handle="module:/resource/RouterWebProject/RouterWebProject">
+            <dependent-object>Module_1398635776550</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:uml="http://www.eclipse.org/uml2/2.1.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.2/Umlnotation" xmi:id="_hTwf8M5cEeOBYPfRd2D5Qg" type="Class" name="classdiagram">
+  <eAnnotations xmi:id="_hUZZIM5cEeOBYPfRd2D5Qg" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_hUZZIc5cEeOBYPfRd2D5Qg" key="com.ibm.xtools.activities.EJB3VisualizerActivity" value="1"/>
+    <details xmi:id="_hUZZIs5cEeOBYPfRd2D5Qg" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+    <details xmi:id="_hUZZI85cEeOBYPfRd2D5Qg" key="com.ibm.xtools.activities.EJB3JPAVisualizerActivity" value="1"/>
+    <details xmi:id="_hUaAMM5cEeOBYPfRd2D5Qg" key="com.ibm.xtools.viz.java.webservice.capability" value="1"/>
+  </eAnnotations>
+  <children xmi:id="_j-PwQM5cEeOBYPfRd2D5Qg">
+    <children xmi:id="_j_WjgM5cEeOBYPfRd2D5Qg" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_j_Wjgc5cEeOBYPfRd2D5Qg" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_j_XKkM5cEeOBYPfRd2D5Qg" type="Stereotype"/>
+    <children xmi:id="_j_Y_wM5cEeOBYPfRd2D5Qg" type="Name"/>
+    <children xmi:id="_j_Zm0M5cEeOBYPfRd2D5Qg" type="Parent"/>
+    <children xmi:id="_j_a08M5cEeOBYPfRd2D5Qg" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_j_bcAM5cEeOBYPfRd2D5Qg"/>
+    </children>
+    <children xmi:id="_kA40kM5cEeOBYPfRd2D5Qg" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_kA40kc5cEeOBYPfRd2D5Qg"/>
+    </children>
+    <children xmi:id="_kA5boM5cEeOBYPfRd2D5Qg" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_kA5boc5cEeOBYPfRd2D5Qg"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_j-PwQc5cEeOBYPfRd2D5Qg" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Calculator%5Bjcu%5Ename=Calculator.java%5Bjpack%5Ename=org.superbiz.calculator.ws%5Bjsrcroot%5Esrcfolder=ejbModule%5Bproject%5Eid=Temp1EJB%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_j-PwQs5cEeOBYPfRd2D5Qg" x="12502" y="4762"/>
+  </children>
+  <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_hTwf8c5cEeOBYPfRd2D5Qg"/>
+  <element xsi:nil="true"/>
+</notation:Diagram>
